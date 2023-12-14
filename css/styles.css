@@ -166,7 +166,7 @@ nav li a:first-child:focus {
     background-repeat: no-repeat, no-repeat;
     background-position: center, center;
     background-size: cover;
-    max-width: 1440px, 1440px;
+    max-width: 1440px;
 }
 
 .firts-header{
