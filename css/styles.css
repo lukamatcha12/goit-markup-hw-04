@@ -412,6 +412,10 @@ nav li a:first-child:focus {
 .customer-icon {
     fill: currentColor;
 }
+
+.line291 {
+    margin-bottom: 72px;
+}
 /******** footer *********/
 
 .footer {
@@ -428,6 +432,7 @@ nav li a:first-child:focus {
     color: var(--cloud);
     letter-spacing: 0.02em;
     max-width: 264px;
+    margin-bottom: 16x;
 }
 
 .footer-link{
@@ -477,7 +482,7 @@ nav li a:first-child:focus {
 
 .footer-socmed-link:hover,
 .footer-socmed-link:focus {
-    background-color: var(--green);
+    background-color: #31d0aa;
 }
 
 .footer-socmed-svg {
