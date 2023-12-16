@@ -377,6 +377,13 @@ nav li a:first-child:focus {
     padding: 120px 0;
 }
 
+.header-fith-hw4{
+    font-size: 36px;
+    line-height: 1.11;
+    margin-bottom: 72px
+
+}
+
 .H4-container{
     display: flex;
     align-items: baseline;  
