@@ -380,8 +380,9 @@ nav li a:first-child:focus {
 .header-fith-hw4{
     font-size: 36px;
     line-height: 1.11;
-    margin-bottom: 72px
-
+    color:
+    margin-bottom: 72px;
+    color: var(--navy-blue)
 }
 
 .H4-container{
