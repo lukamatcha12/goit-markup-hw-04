@@ -377,12 +377,12 @@ nav li a:first-child:focus {
     padding: 120px 0;
 }
 
-.header-fith-hw4{
+.header-fith-hw4 {
     font-size: 36px;
     line-height: 1.11;
     color:
     margin-bottom: 72px;
-    color: var(--navy-blue)
+    color: var(--navy-blue);
 }
 
 .H4-container{
