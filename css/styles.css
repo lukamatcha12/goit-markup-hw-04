@@ -12,6 +12,16 @@
     --dairy: #fcfcfc;
 }
 
+:root {
+    --white: #ffffff;
+    --grey: #2e2f42;
+    --light-grey: #434455;
+    --light-blue: #4d5ae5;
+    --light-blue-focus: #404bbf;
+    --dirty-white: #f4f4fd;
+}
+
+
 .{
         box-sizing: border-box;
         margin: 0;
@@ -58,15 +68,6 @@ font-family:"Roboto",sans-serif;
 
 .contact-info {
     font-style: normal;
-}
-
-:root {
-    --white: #ffffff;
-    --grey: #2e2f42;
-    --light-grey: #434455;
-    --light-blue: #4d5ae5;
-    --light-blue-focus: #404bbf;
-    --dirty-white: #f4f4fd;
 }
 
 .header-logo-studio {
@@ -413,9 +414,9 @@ nav li a:first-child:focus {
     fill: currentColor;
 }
 
-.line291 {
+/* .line291 {
     margin-bottom: 72px;
-}
+} */
 /******** footer *********/
 
 .footer {
