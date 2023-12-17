@@ -291,9 +291,10 @@ nav li a:first-child:focus {
     text-transform: capitalize;
     color: var(--grey);
     border-radius: (0px 0px 4px 4px);
-    margin-bottom: 72px;
 }
 
+.section-four-header {
+    margin-bottom: 72px;}
 
 .section-class-list{
     display: flex;
